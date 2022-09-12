@@ -1,0 +1,91 @@
+.containermb-5{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: 10%;
+    position: absolute;
+    max-width: 1200px;
+    margin-top: 6%;
+    /* color: #434343; */
+}
+
+
+.form {
+    margin-bottom: 15px;
+    margin-top: 1rem; 
+    /* background-color: #fff; */
+    font: 500 17px/1.55 MyriadPro,Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+   
+}
+.action{
+    margin-top: 9px;
+    margin-left: 0px;
+    width: 100%;
+}
+ 
+
+.for-control{
+    padding: 6px 10px;
+    border: 1px solid #ced4da;
+
+}
+
+
+button.btn.btn-primary.col-12 {
+    background-color: #af9433;
+    border-color: #af9433;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size: 20px;
+    width: 47%;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+
+a.creat-acction {
+    text-transform: none;
+    font-size: 14px;
+    display: block;
+    text-decoration: underline;
+    padding: 20px 0 0;
+    /* font-weight: 500; */
+    color: #434343;
+    cursor: pointer;
+}
+
+span {
+    color: #af9433;
+    padding: 0 0 0 5px;
+}
+.containermb-5.page-login{
+    border-radius: 5px;
+}
+
+.form-check.form-check-inline {
+    border: 1px solid #ced4da;
+    width: 12%;
+    height: 77px;
+    padding: 30px;
+    padding-left: 38px;
+
+
+}
+input.for-control {
+    width: 550px;
+    height: 52px;
+    border-radius: 7px;
+}
+
+p{
+    font-size: 13px;
+}
+
+
+
+
+
+
+
